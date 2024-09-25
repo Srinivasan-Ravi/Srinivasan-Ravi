@@ -30,9 +30,9 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 
 ## 🏅 LeetCode Achievements
 <p>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50days" width="150"/>
-  <img width="12" /> <!-- space between the badges -->
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="August Challenge" width="150"/>
+  <img width="12" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50days" width="150"/>
   <img width="12" />
 </p>
 
