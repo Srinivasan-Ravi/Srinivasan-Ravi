@@ -30,9 +30,10 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 </p>
 
 ## 📊 My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=compact&theme=radical)](https://github.com/Srinivasan-Ravi/github-readme-stats)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinivasan-Ravi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=compact&theme=radical)](https://github.com/Srinivasan-Ravi/github-readme-stats)
 
 ## 🏅 LeetCode Achievements
 <p>
