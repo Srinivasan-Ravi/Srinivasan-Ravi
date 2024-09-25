@@ -28,8 +28,15 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=compact&theme=radical)](https://github.com/Srinivasan-Ravi/github-readme-stats)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Srinivasan-Ravi&theme=radical)
+## 🏅 LeetCode Achievements
+<p>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50days" width="150"/>
+  <img width="12" /> <!-- space between the badges -->
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="August Challenge" width="150"/>
+  <img width="12" />
+</p>
+
+
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
@@ -44,8 +51,7 @@ I'm a passionate developer with a focus on building intuitive and interactive we
   </a>
   <a href="https://leetcode.com/Srinivasan_Ravi" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
+  </a>
   <a href="mailto:sriniravir05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
