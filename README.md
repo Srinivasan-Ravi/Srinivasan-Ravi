@@ -33,8 +33,8 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Opened issue [#1](https://github.com/Srinivasan-Ravi/your-repo/issues/1) in [your-repo-name](https://github.com/your-username/your-repo)
-2. 💪 Created PR [#2](https://github.com/Srinivasan-Ravi/your-repo/pull/2) in [your-repo-name](https://github.com/your-username/your-repo)
+1. 🎉 Opened issue [#1](https://github.com/Srinivasan-Ravi/Solutions-for-Leetcode/issues/1) in Solution-for-Leetcode(https://github.com/Srinivasan-Ravi/Solutions-for-Leetcode)
+2. 💪 Created PR [#2](https://github.com/Srinivasan-Ravi/LitlleInn/pull/2) in LittleInn(https://github.com/Srinivasan-Ravi/LitlleInn)
 <!--END_SECTION:activity-->
 
 ## 🔗 Let's Connect!
