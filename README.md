@@ -1,14 +1,17 @@
 # Hi there, I'm SRINIVASAN R 👋
 
 ## 🚀 About Me
+
 I'm a passionate developer with a focus on building intuitive and interactive web applications. I love to work with modern web technologies like React, Node.js, and Tailwind CSS, and enjoy solving complex challenges in UI/UX design.
 
-🔭 I’m currently working on an interactive web application using React, Node.js, and Tailwind CSS
-🌱 I’m currently learning advanced backend development with MongoDB and microservices architecture
-👯 I’m looking to collaborate on open-source React projects, UI/UX design improvements, and Node.js backend solutions
-💬 Ask me about React, Node.js, Tailwind CSS, MongoDB, and JavaScript
-📫 How to reach me: LinkedIn | Email
-⚡ Fun fact: I enjoy tackling challenging algorithms and optimizing code for performance, especially in JavaScript and LeetCode problems.
+
+- 🔭 I’m currently working on **an interactive web application using React, Node.js, and Tailwind CSS**
+- 🌱 I’m currently learning **advanced backend development with MongoDB and microservices architecture**
+- 👯 I’m looking to collaborate on **open-source React projects and Node.js backend solutions**
+- 💬 Ask me about **React, Node.js, Tailwind CSS, MongoDB, and JavaScript**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/srinivasan-r-b13195256/) | [Email](mailto:sriniravir05@gmail.com)**
+- ⚡ Problem Solving: **I enjoy tackling challenging algorithms and optimizing code for performance, especially in JavaScript and LeetCode problems.**
+
 
 ## 🛠️ Languages & Tools
 <p>
