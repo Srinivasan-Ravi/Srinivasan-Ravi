@@ -35,7 +35,8 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 ## 📊 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=compact&theme=radical)](https://github.com/Srinivasan-Ravi/github-readme-stats)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinivasan-Ravi&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinivasan-Ravi&show_icons=true&theme=radical&hide_rank=true)
+
 
 
 ## 🏅 LeetCode Achievements
@@ -47,12 +48,6 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 </p>
 
 
-
-## 📈 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Opened issue [#1](https://github.com/Srinivasan-Ravi/Solutions-for-LeetCode/issues) in Solution-for-Leetcode(https://github.com/Srinivasan-Ravi/Solutions-for-LeetCode)
-2. 💪 Created PR [#2](https://github.com/Srinivasan-Ravi/LittleInn/pulls) in LittleInn(https://github.com/Srinivasan-Ravi/LittleInn)
-<!--END_SECTION:activity-->
 
 ## 🔗 Let's Connect!
 <p>
