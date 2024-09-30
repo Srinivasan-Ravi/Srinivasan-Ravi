@@ -45,6 +45,8 @@ I'm a passionate developer with a focus on building intuitive and interactive we
   <img width="12" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50days" width="150"/>
   <img width="12" />
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif"  alt="September Challenge" width="150"/>
+  <img width="12" />
 </p>
 
 
