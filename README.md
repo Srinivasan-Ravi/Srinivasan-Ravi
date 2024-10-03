@@ -33,9 +33,27 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 </p>
 
 ## 📊 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=compact&theme=radical)](https://github.com/Srinivasan-Ravi/github-readme-stats)
+## 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinivasan-Ravi&show_icons=true&theme=radical&hide_rank=true)
+<table>
+  <tr>
+    <td width="33%" height="200px">
+      <a href="https://github.com/Srinivasan-Ravi">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasan-Ravi&layout=donut&theme=radical" width="100%" height="200px" />
+      </a>
+    </td>
+    <td width="33%" height="200px">
+      <a href="https://github.com/Srinivasan-Ravi">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinivasan-Ravi&theme=radical" width="100%" height="200px" />
+      </a>
+    </td>
+    <td width="33%" height="200px">
+      <a href="https://github.com/Srinivasan-Ravi">
+        <img src="https://github-readme-stats.vercel.app/api?username=Srinivasan-Ravi&show_icons=true&theme=radical&hide_rank=true" width="100%" height="200px" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
