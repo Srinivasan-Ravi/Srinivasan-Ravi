@@ -33,7 +33,6 @@ I'm a passionate developer with a focus on building intuitive and interactive we
 </p>
 
 ## 📊 My GitHub Stats
-## 📊 My GitHub Stats
 
 <table>
   <tr>
